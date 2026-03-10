@@ -1,4 +1,4 @@
-import type { ErrorType } from './types';
+import type { ErrorType } from './usePaymentFlow';
 
 export function formatAmount(
   value: string,

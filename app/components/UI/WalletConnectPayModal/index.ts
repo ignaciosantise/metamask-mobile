@@ -1,2 +1,2 @@
 export { default as WalletConnectPayModal } from './WalletConnectPayModal';
-export type { WalletConnectPayModalParams } from './types';
+export type { ModalStep, PaymentFlowState } from './usePaymentFlow';
